@@ -2,7 +2,7 @@
 
 
 ```bash
-Guobins-MacBook-Pro:busybox-alias guobin$ docker run -it qiuguobin/busybox-alias
+docker run -it qiuguobin/busybox-alias
 / # ll
 total 44
 drwxr-xr-x    1 root     root          4096 Sep  6 14:19 .
