@@ -24,6 +24,11 @@ drwxr-xr-x    4 root     root          4096 Aug 20 16:21 var
 
 Add your own aliases to the `.profile` file.
 
+```
+alias ll='ls -al'
+...
+```
+
 Build image
 
 ```bash
